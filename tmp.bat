@@ -15,4 +15,4 @@ if not exist "%dirName%\" (
 
 explorer %dirName%
 
-exit /b 0
+exit /b
